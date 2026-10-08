@@ -1,6 +1,6 @@
 /* ============ Config ============ */
 const EMAIL = 'pavetran22@gmail.com';
-const LINKEDIN_URL = ''; // paste your LinkedIn profile URL here; buttons stay hidden until it is set
+const LINKEDIN_URL = 'https://www.linkedin.com/in/pavetran-m-ravi-80317a249';
 
 /* ============ Content ============ */
 const PROJECTS = [
